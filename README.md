@@ -73,7 +73,7 @@ Desarrollo de un dashboard interactivo en Power BI con indicadores ejecutivos, a
 - `data/`: conjuntos de datos utilizados en el análisis.
 - `dashboard/`: archivo interactivo de Power BI.
 - `sql/`: consultas de conversión y retención.
-- `RappiPlus_Notebook_GitHub.ipynb`: análisis y procesamiento en Python.
+- `notebooks/RappiPlus_Notebook_GitHub.ipynb`: análisis y procesamiento en Python.
 - `README.md`: documentación general del proyecto.
 
 ## 💡 Conclusión
