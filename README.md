@@ -48,6 +48,18 @@ Análisis de un experimento A/B para evaluar diferencias en las tasas de convers
 
 Desarrollo de un dashboard interactivo en Power BI con indicadores ejecutivos, análisis por producto y detalle de pedidos.
 
+
+## 📊 Dashboard interactivo en Power BI
+
+### Resumen Ejecutivo
+![Resumen Ejecutivo de RappiPlus](images/resumen_ejecutivo.png)
+
+### Análisis de Productos y Rentabilidad
+![Análisis de Productos](images/analisis_producto.png)
+
+### Detalle de Pedidos
+![Detalle de Pedidos](images/detalle_pedido.png)
+
 ## 📈 Principales hallazgos
 
 - Se identificó un producto con rentabilidad bruta negativa, lo que permite detectar oportunidades de revisión de precios y costos.
