@@ -1,5 +1,17 @@
 # RappiPlus | Análisis Comercial y Business Intelligence
 
+## 🚀 Resumen ejecutivo
+
+**Problema de negocio:** evaluar el desempeño comercial de RappiPlus, identificando oportunidades de mejora en rentabilidad, conversión y retención de clientes.
+
+**Solución analítica:** integración de Python, SQL, análisis estadístico y Power BI para limpiar datos, construir indicadores financieros, analizar el comportamiento de usuarios y comunicar resultados mediante dashboards.
+
+**Principales hallazgos:**
+- Se identificó un producto con rentabilidad bruta negativa, lo que evidencia la necesidad de revisar su estructura de costos y precios.
+- Se detectaron registros sin información de costos, una limitación relevante para calcular correctamente la rentabilidad.
+- Se analizaron patrones de conversión y retención para comprender el comportamiento de los usuarios e identificar oportunidades de mejora.
+
+**Valor para el negocio:** el análisis permite detectar riesgos de rentabilidad, mejorar la calidad de los indicadores y orientar decisiones comerciales basadas en datos.
 ## 📊 Descripción del proyecto
 
 Proyecto integral de análisis de datos orientado a evaluar el desempeño comercial de **RappiPlus**, mediante el estudio de ingresos, costos, rentabilidad, comportamiento de usuarios y efectividad de las estrategias de conversión.
